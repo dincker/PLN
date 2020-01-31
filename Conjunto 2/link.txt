@@ -1,0 +1,8 @@
+Datasets: http://kdd.ics.uci.edu/summary.data.type.html
+
+http://kdd.ics.uci.edu/
+
+Extra: http://www.scielo.org.mx/article_plus.php?pid=S2007-15582015000100007&tlng=en&lng=es
+Extra2: http://www.ai.mit.edu/projects/jmlr/papers/volume5/lewis04a/lyrl2004_rcv1v2_README.htm
+Extra 3: http://www.jmlr.org/papers/v20/
+Extra 4: http://www.scielo.org.mx/pdf/ijcopi/v6n1/2007-1558-ijcopi-6-01-00007.pdf
